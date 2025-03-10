@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Hung!<br>👩🏻‍🎓 Studied Information Technology at the Quy Nhon University<br>💭 Tranquility in a Chaotic World🕊🕊🕊
+👋 Hi, I'm Hung!<br>👩🏻‍🎓 Studied Information Technology at the Quy Nhon University<br>💭 Tranquility in a Chaotic World🕊
 
 
 ## 🌐 Socials:
