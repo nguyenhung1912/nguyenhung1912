@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khunglongcon2k5&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="400"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khunglongcon2k5&theme=radical&hide_border=false" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khunglongcon2k5&theme=radical&hide_border=false" width="400"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khunglongcon2k5&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400"/>
 </div>
