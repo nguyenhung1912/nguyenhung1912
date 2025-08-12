@@ -1,4 +1,5 @@
-# 💫 About Me:<br>👋 Hi, I'm Hung!<br>👩🏻‍🎓 Studied Information Technology at the Quy Nhon University<br>💭 Humans stand in their own shadow and wonder why it is dark.🕊
+# 💫 About Me:
+👋 Hi, I'm Hung!<br>👩🏻‍🎓 Studied Information Technology at the Quy Nhon University<br>💭 Humans stand in their own shadow and wonder why it is dark.🕊
 
 
 ## 🌐 Socials:
@@ -15,3 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=khunglongcon2k5&icon=5&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/khunglongcon2k5/khunglongcon2k5/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
+
