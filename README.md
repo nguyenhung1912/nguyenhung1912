@@ -14,4 +14,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nguyenhung1912&icon=5&color=8)](https://visitcount.itsvg.in)
 
-
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/nguyenhung1912/nguyenhung1912/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
